@@ -1,5 +1,5 @@
-import ProxyInterface from '@/components/ProxyInterface';
+import RammerheadBrowser from '@/components/RammerheadBrowser';
 
 export default function Home() {
-  return <ProxyInterface />;
+  return <RammerheadBrowser />;
 }
